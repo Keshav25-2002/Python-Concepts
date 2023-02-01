@@ -27,3 +27,5 @@ It consists of the following topics:
 (xii) Class concepts
 
 (xiii) Pandas Concepts
+
+(ix) EDA (Matplotlib,Seaborn,Plotly and Automation libraries (Sweetviz,Pandas-Profilling,AutoViz,Klib)
