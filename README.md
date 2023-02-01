@@ -25,3 +25,5 @@ It consists of the following topics:
 (xi) OOP concepts 
 
 (xii) Class concepts
+
+(xiii) Pandas Concepts
